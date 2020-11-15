@@ -1,0 +1,4 @@
+#task_list  li.done {
+    text-decoration: line-through;
+    color: #999999;
+}
